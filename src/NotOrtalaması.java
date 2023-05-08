@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
-import java.util.Scanner;
-
-public class odev1 {
+public class NotOrtalaması {
     public static void main(String[] args) {
         //Değişkenleri oluşturuyorum
         int mat, fizik, kimya, turkce, tarih, muzik;
