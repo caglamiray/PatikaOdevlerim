@@ -1,4 +1,3 @@
-import javax.security.sasl.SaslServer;
 import java.util.Scanner;
 public class KucuktenBuyuge {
     public static void main(String[] args) {
