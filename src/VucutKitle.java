@@ -11,7 +11,7 @@ public class VucutKitle {
         System.out.println("Boyunuzu giriniz(metre): ");
         boy = input.nextInt();
 
-        vki = kilo / boy * boy;
+        vki = kilo / (boy * boy);
 
         System.out.println("Vücut Kitle İndeksiniz: " + vki);
 
