@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hafta02/FibonacciSerisi/FibonacciSerisi.iml" filepath="$PROJECT_DIR$/Hafta02/FibonacciSerisi/FibonacciSerisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/Hafta02.iml" filepath="$PROJECT_DIR$/Hafta02/Hafta02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/PalindromSayi/PalindromSayi.iml" filepath="$PROJECT_DIR$/Hafta02/PalindromSayi/PalindromSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatikaOdevler.iml" filepath="$PROJECT_DIR$/PatikaOdevler.iml" />
