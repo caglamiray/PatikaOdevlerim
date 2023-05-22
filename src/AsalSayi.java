@@ -1,6 +1,5 @@
 public class AsalSayi {
     public static void main(String[] args) {
-        int sayac = 0;
         for(int sayi=2;sayi<=100;sayi++)
         {
             int kontrol = 0;
@@ -16,7 +15,6 @@ public class AsalSayi {
             if(kontrol==0)
             {
                 System.out.print(sayi+"\n");
-                sayac++;
             }
         }
     }

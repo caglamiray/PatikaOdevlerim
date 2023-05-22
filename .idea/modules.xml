@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hafta02/AsalSayiRecursive/AsalSayiRecursive.iml" filepath="$PROJECT_DIR$/Hafta02/AsalSayiRecursive/AsalSayiRecursive.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/FibonacciSerisi/FibonacciSerisi.iml" filepath="$PROJECT_DIR$/Hafta02/FibonacciSerisi/FibonacciSerisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/GelismisHesapMakinesi/GelismisHesapMakinesi.iml" filepath="$PROJECT_DIR$/Hafta02/GelismisHesapMakinesi/GelismisHesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/Hafta02.iml" filepath="$PROJECT_DIR$/Hafta02/Hafta02.iml" />

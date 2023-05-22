@@ -1,0 +1,1 @@
+Sayıları düşündüğümüzde, bazı sayıların diğerlerinden farklı özellikte olduğunu kolayca görebiliriz. Örneğin 10 sayısı 1, 2 ve 5 sayıları ile bölünebilirken, 11 sayısı sadece 1 ve 11 yani kendisi ile bölünebilir. Pozitif tam sayılar kümesinde bu şekilde kendisinden ve 1’den başka böleni olmayan, 2 ve 2’den büyük birçok sayı vardır. Bu sayılara “asal sayı” denir. 
