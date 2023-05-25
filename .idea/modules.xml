@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Hafta02/AsalSayiRecursive/AsalSayiRecursive.iml" filepath="$PROJECT_DIR$/Hafta02/AsalSayiRecursive/AsalSayiRecursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta02/BoksOyunu/BoksOyunu.iml" filepath="$PROJECT_DIR$/Hafta02/BoksOyunu/BoksOyunu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/DeseneGoreMetotOlusturma/DeseneGoreMetotOlusturma.iml" filepath="$PROJECT_DIR$/Hafta02/DeseneGoreMetotOlusturma/DeseneGoreMetotOlusturma.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/FibonacciSerisi/FibonacciSerisi.iml" filepath="$PROJECT_DIR$/Hafta02/FibonacciSerisi/FibonacciSerisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/GelismisHesapMakinesi/GelismisHesapMakinesi.iml" filepath="$PROJECT_DIR$/Hafta02/GelismisHesapMakinesi/GelismisHesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/Hafta02.iml" filepath="$PROJECT_DIR$/Hafta02/Hafta02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta02/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/Hafta02/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/PalindromSayi/PalindromSayi.iml" filepath="$PROJECT_DIR$/Hafta02/PalindromSayi/PalindromSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatikaOdevler.iml" filepath="$PROJECT_DIR$/PatikaOdevler.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta02/UsHesabiRecursive/UsHesabiRecursive.iml" filepath="$PROJECT_DIR$/Hafta02/UsHesabiRecursive/UsHesabiRecursive.iml" />
